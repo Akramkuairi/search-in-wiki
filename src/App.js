@@ -13,7 +13,7 @@ export default function App() {
           list: "search",
           origin: "*",
           format: "json",
-          srsearch: term, // srsearch : its take what I write for search (term)  __ thats means : what I write in input ,will search about in
+          srsearch: term, 
         },
       });
       // console.log(respond);
